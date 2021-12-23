@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning React
 
 📫 How to reach me melisadeniz95@gmail.com
 
-🛠 Tech Stack 💻 HTML | CSS | Python | R | MySQL
+🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL 
 
