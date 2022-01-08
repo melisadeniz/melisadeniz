@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/iMJSCqtsi20V9xgpPu" width="480" height="376" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theitcrowd-funny-crowd-iMJSCqtsi20V9xgpPu">via GIPHY</a></p>
+https://media.giphy.com/media/iMJSCqtsi20V9xgpPu/giphy.gif
 
 🌱 I’m currently learning ReactJS
 
