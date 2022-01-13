@@ -8,17 +8,17 @@
 - 👀 Lifelong Learner
 - 🌱 Currently learning ReactJs
 
-🛠 Tech Stack 💻 HTML | CSS | JavaScript | Bootstrap | Python | R
+🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL
 
 ### Connect with me:
 
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" />][medium]
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram]
+[<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" />][medium]
 
 [linkedin]: https://www.linkedin.com/in/melisa-deniz
-[medium]: https://medium.com/@melisadeniz
 [instagram]: https://www.instagram.com/melisadeniiz
+[medium]: https://medium.com/@melisadeniz
 
 
 
