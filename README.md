@@ -1,10 +1,21 @@
 <img src="https://media.giphy.com/media/iMJSCqtsi20V9xgpPu/giphy.gif" align="right" width="400" height="280">
 
-### Hi there 👋
+### Hi there, I'm Melisa 👋
 
-🌱 I’m currently learning ReactJS
+🎓 Graduated from Hacettepe University
+💻 Industrial Engineer
+💃 Latin Dancer
+👀 Lifelong Learner
+🌱 Currently learning ReactJs
 
-📫 How to reach me melisadeniz95@gmail.com
+🛠 Tech Stack 💻 HTML | CSS | JavaScript | Bootstrap | Python | R | MySQL 
 
-🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL 
+### Connect with me:
+<br />
+[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/melisa-deniz" />[linkedin]
+[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://www.instagram.com/melisadeniiz" />[instagram]
+
+
+
+
 
