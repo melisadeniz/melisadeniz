@@ -13,9 +13,7 @@
 ### Connect with me:
 
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" />][medium]
-
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 [medium]: https://medium.com/@melisadeniz
