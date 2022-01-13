@@ -8,7 +8,7 @@
 - 👀 Lifelong Learner
 - 🌱 Currently learning ReactJs
 
-🛠 Tech Stack 💻 HTML | CSS | JavaScript | Bootstrap | Python | R | MySQL 
+🛠 Tech Stack 💻 HTML | CSS | JavaScript | Bootstrap | Python | R
 
 ### Connect with me:
 
