@@ -2,18 +2,18 @@
 
 ### Hi there, I'm Melisa 👋
 
--🎓 Graduated from Hacettepe University
--💻 Industrial Engineer
--💃 Latin Dancer
--👀 Lifelong Learner
--🌱 Currently learning ReactJs
+- 🎓 Graduated from Hacettepe University
+- 💻 Industrial Engineer
+- 💃 Latin Dancer
+- 👀 Lifelong Learner
+- 🌱 Currently learning ReactJs
 
 🛠 Tech Stack 💻 HTML | CSS | JavaScript | Bootstrap | Python | R | MySQL 
 
 ### Connect with me:
 <br />
-[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/melisa-deniz" />][linkedin]
-[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://www.instagram.com/melisadeniiz" />][instagram]
+[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/melisa-deniz]
+[<img align:"left" alt:"codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/melisadeniiz]
 
 
 
