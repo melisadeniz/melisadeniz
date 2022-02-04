@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Melisa.
 
-<img src="https://media.giphy.com/media/2dtzeeEmx5x2Hqlyhi/giphy.gif" align="right" width="260" height="220">
+<img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" align="right" width="300" height="500">
 
 - 🎓 Graduated from Hacettepe University
 - 💻 Industrial Engineer
