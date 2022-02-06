@@ -7,7 +7,7 @@
 - 💻 Industrial Engineer
 - 💃 Latin Dancer
 - 👀 Lifelong Learner
-- 🌱 Currently learning ReactJs
+- 🌱 Currently learning ReactJS
 
 🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL
 
