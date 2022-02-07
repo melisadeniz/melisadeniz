@@ -16,10 +16,13 @@
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram]
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" />][medium]
+[<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" />][spotify]
 
 [linkedin]: https://www.linkedin.com/in/melisa-deniz
 [instagram]: https://www.instagram.com/melisadeniiz
 [medium]: https://medium.com/@melisadeniz
+[spotify]: https://open.spotify.com/user/m.deniz95?si=ff96b4e3d37d44a7
+
 
 
 
