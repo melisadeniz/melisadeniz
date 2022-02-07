@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="right" width="300" height="300">
 
 - 🎓 Graduated from Hacettepe University
-- 💻 Industrial Engineer
+- 💻 Frontend Developer
 - 💃 Latin Dancer
 - 👀 Lifelong Learner
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning ReactJS & Redux
 
 🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL
 
