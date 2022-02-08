@@ -9,7 +9,7 @@
 - 👀 Lifelong Learner
 - 🌱 Currently learning <b>ReactJS & Redux<b>
 
-🛠 Tech Stack 💻 HTML | CSS | JavaScript | Python | R | MySQL
+🛠 Tech Stack : HTML | CSS | JavaScript | Python | R | MySQL
 
 ### Connect with me:
 
