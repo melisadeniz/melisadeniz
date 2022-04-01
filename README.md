@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Melisa.
+# Hi there 👋, I'm Melisa.
 
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="right" width="300" height="300">
 
