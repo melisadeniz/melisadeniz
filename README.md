@@ -11,7 +11,7 @@
 
 🛠 Tech Stack : HTML | CSS | JavaScript | Python | R 
 
-### Connect with me:
+## Connect with me:
 
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img  width="25" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram]
