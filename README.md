@@ -1,8 +1,6 @@
 
 # Hi there 👋, I'm Melisa.
 
-<img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="right" width="300" height="300">
-
 - 🎓 Graduated from Hacettepe University
 - 💻 Frontend Developer
 - 💃 Latin Dancer
@@ -10,6 +8,8 @@
 - 🌱 Currently learning <b>ReactJS & Redux<b>
 
 🛠 Tech Stack : HTML | CSS | JavaScript | Python | R 
+  
+<img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="right" width="300" height="300">
 
 ## Connect with me:
 
