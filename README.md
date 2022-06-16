@@ -5,9 +5,9 @@
 - 💻 Frontend Developer
 - 💃 Latin Dancer
 - 👀 Lifelong Learner
-- 🌱 Currently learning <b>ReactJS & Redux<b>
+- 🌱 Currently learning <b>Angular<b>
 
-🛠 Tech Stack : HTML | CSS | JavaScript | Python | R 
+🛠 Tech Stack : HTML | CSS | JavaScript | Python | R | ReactJS 
 
 ## Connect with me:
 
