@@ -7,7 +7,7 @@
 - 👀 Lifelong Learner
 - 🌱 Currently learning <b>Angular<b>
 
-🛠 Tech Stack : HTML | CSS | JavaScript | Python | R | ReactJS 
+🛠 Tech Stack : HTML | CSS | JavaScript | React | Python | R 
 
 ## Connect with me:
 
