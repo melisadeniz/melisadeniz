@@ -19,7 +19,6 @@
   [spotify]: https://open.spotify.com/user/m.deniz95?si=ff96b4e3d37d44a7  
   [medium]: https://medium.com/@melisadeniz  
   
-  ![snake svg](https://github.com/melisadeniz/melisadeniz/blob/output/github-contribution-grid-snake.svg)
 
 
 
