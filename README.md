@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Melisa.
 
 - 🎓 Graduated from Hacettepe University
-- 💻 Frontend Developer
+- 💻 Assistant Product Manager
 - 💃 Latin Dancer
 - 👀 Lifelong Learner
 
