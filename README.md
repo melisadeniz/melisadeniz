@@ -2,11 +2,11 @@
 # Hi there 👋, I'm Melisa.
 
 - 🎓 Graduated from Hacettepe University
-- 💻 Assistant Product Manager
+- 💻 Product Manager
 - 💃 Latin Dancer
 - 👀 Lifelong Learner
 
-🛠 Tech Stack : HTML | CSS | JavaScript | React | Angular | Python
+🛠 Tech Stack : HTML | CSS | JavaScript | React | Angular
 
 ## Connect with me:
 
